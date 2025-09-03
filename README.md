@@ -1,7 +1,7 @@
 # Qwen-Tourist
 
 **Qwen-Tourist: Fine-Tuned for Competitive Programming Excellence**
-
+Huggingface : - https://huggingface.co/ViksithAI/Qwen-Tourist
 ## Introduction
 
 Qwen-Tourist is a specialized fine-tuned variant of Qwen2.5-7B, specifically optimized for competitive programming and low-latency algorithmic problem-solving. Named after the legendary competitive programmer Gennady Korotkevich (tourist), this model represents a focused approach to domain-specific fine-tuning for algorithmic excellence.
